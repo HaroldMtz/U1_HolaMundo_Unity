@@ -1,10 +1,15 @@
 # U1_HolaMundo_Unity
-Proyecto base de Unity con script `HolaMundo` que imprime "Hola mundo" en Console.
+Proyecto base del curso. Incluye el script `HolaMundo` que imprime **"Hola mundo"** en la Console.
 
-## Cómo correr
-1. Clonar el repo.
-2. Abrir la carpeta en **Unity Hub** → Open → Play.
-3. Ver “Hola mundo” en **Console**.
+## Cómo ejecutar
+1. Clona el repo.
+2. Abre la carpeta en **Unity Hub** → Open.
+3. Abre `SampleScene` (o la escena incluida), presiona **Play** y revisa **Console**.
 
-Estructura: `Assets/`, `Packages/`, `ProjectSettings/`.  
-Control de versiones: Visible Meta Files + Force Text.  
+## Estructura
+- `Assets/` → `Scripts/HolaMundo.cs`, escenas y recursos.
+- `Packages/` → dependencias.
+- `ProjectSettings/` → configuración del proyecto.
+
+> Control de versiones configurado con **Visible Meta Files** y **Force Text**.  
+> `.gitignore` excluye `Library/`, `Temp/`, `Logs/`, `UserSettings/`, etc.
