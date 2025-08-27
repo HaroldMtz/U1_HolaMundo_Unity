@@ -1,0 +1,34 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Aa]sset[Ss]tore/
+
+# Unity Version Control / Plastic
+.plastic/
+
+# IDE / soluciones
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+*.opendb
+*.VC.db
+*.pidb
+*.mdb
+*.ide/
+
+# Autogenerados
+*.generated.cs
+
+# SO
+*.DS_Store
+Thumbs.db
